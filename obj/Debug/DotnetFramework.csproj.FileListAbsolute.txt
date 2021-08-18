@@ -1,0 +1,7 @@
+C:\Users\thaynara.silva\source\repos\DotnetFramework\DotnetFramework\bin\Debug\DotnetFramework.exe.config
+C:\Users\thaynara.silva\source\repos\DotnetFramework\DotnetFramework\bin\Debug\DotnetFramework.exe
+C:\Users\thaynara.silva\source\repos\DotnetFramework\DotnetFramework\bin\Debug\DotnetFramework.pdb
+C:\Users\thaynara.silva\source\repos\DotnetFramework\DotnetFramework\obj\Debug\DotnetFramework.csproj.AssemblyReference.cache
+C:\Users\thaynara.silva\source\repos\DotnetFramework\DotnetFramework\obj\Debug\DotnetFramework.csproj.CoreCompileInputs.cache
+C:\Users\thaynara.silva\source\repos\DotnetFramework\DotnetFramework\obj\Debug\DotnetFramework.exe
+C:\Users\thaynara.silva\source\repos\DotnetFramework\DotnetFramework\obj\Debug\DotnetFramework.pdb
