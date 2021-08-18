@@ -1,0 +1,7 @@
+C:\Users\thaynara.silva\source\repos\DotnetFrameworkMedia\DotnetFrameworkMedia\bin\Debug\DotnetFrameworkMedia.exe.config
+C:\Users\thaynara.silva\source\repos\DotnetFrameworkMedia\DotnetFrameworkMedia\bin\Debug\DotnetFrameworkMedia.exe
+C:\Users\thaynara.silva\source\repos\DotnetFrameworkMedia\DotnetFrameworkMedia\bin\Debug\DotnetFrameworkMedia.pdb
+C:\Users\thaynara.silva\source\repos\DotnetFrameworkMedia\DotnetFrameworkMedia\obj\Debug\DotnetFrameworkMedia.csproj.AssemblyReference.cache
+C:\Users\thaynara.silva\source\repos\DotnetFrameworkMedia\DotnetFrameworkMedia\obj\Debug\DotnetFrameworkMedia.csproj.CoreCompileInputs.cache
+C:\Users\thaynara.silva\source\repos\DotnetFrameworkMedia\DotnetFrameworkMedia\obj\Debug\DotnetFrameworkMedia.exe
+C:\Users\thaynara.silva\source\repos\DotnetFrameworkMedia\DotnetFrameworkMedia\obj\Debug\DotnetFrameworkMedia.pdb
